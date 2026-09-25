@@ -1,2 +1,2 @@
-# pythonml_1
-Introduction to machine learning with Python for economists
+# pythonml_m2_ad
+Machine learning and AI with Python for economists
